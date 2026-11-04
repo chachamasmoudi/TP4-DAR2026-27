@@ -10,6 +10,9 @@ Mettre en place un service de chat client/serveur en Java avec des sockets UDP (
 
 ![Structure du projet](images/Structure du projet.png)
 
+
+
+
 ## Étape 2 : Chat unidirectionnel 
 
 ### Principe
