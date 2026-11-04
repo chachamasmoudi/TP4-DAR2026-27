@@ -8,7 +8,7 @@ Mettre en place un service de chat client/serveur en Java avec des sockets UDP (
 
 ## Structure du projet
 
-![Structure du projet](images/Structure du projet.png)
+![Structure du projet](images/StructureDuProjet.png)
 
 
 
